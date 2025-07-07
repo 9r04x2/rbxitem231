@@ -1,0 +1,484 @@
+fetch("https://rbxitem.com/checkout", {
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=0, i",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-user": "?1",
+    "sec-gpc": "1",
+    "upgrade-insecure-requests": "1"
+  },
+  "referrer": "https://rbxitem.com/tr/cart",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "include"
+}); ;
+fetch("https://rbxitem.com/checkouts/cn/Z2NwLWV1cm9wZS13ZXN0MTowMUpaSkE1TjRQWlRCNEI0VEdQWEhKV1RLVw", {
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=0, i",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-user": "?1",
+    "sec-gpc": "1",
+    "upgrade-insecure-requests": "1"
+  },
+  "referrer": "https://rbxitem.com/tr/cart",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "include"
+}); ;
+fetch("https://cdn.shopify.com/s/files/1/0708/9038/9768/files/rbxitem_x320.png?v=1701033987", {
+  "headers": {
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\""
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/assets/app.D5uPXcPS.css", {
+  "headers": {
+    "accept": "text/css,*/*;q=0.1",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=0",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "style",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/assets/OnePage.PMX4OSBO.css", {
+  "headers": {
+    "accept": "text/css,*/*;q=0.1",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "style",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/assets/DeliveryMethodSelectorSection.Cx21oFfE.css", {
+  "headers": {
+    "accept": "text/css,*/*;q=0.1",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "style",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/assets/useEditorShopPayNavigation.DCOTvxC3.css", {
+  "headers": {
+    "accept": "text/css,*/*;q=0.1",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "style",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/assets/VaultedPayment.OxMVm7u-.css", {
+  "headers": {
+    "accept": "text/css,*/*;q=0.1",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "style",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/assets/StackedMerchandisePreview.CKAakmU8.css", {
+  "headers": {
+    "accept": "text/css,*/*;q=0.1",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "style",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/assets/ShopPayVerificationSwitch.DW7NMDXG.css", {
+  "headers": {
+    "accept": "text/css,*/*;q=0.1",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "style",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/polyfills.BCqn6Ex5.js", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/app.D10YprZd.js", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/page-OnePage.P2AeBrfS.js", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/DeliveryMethodSelectorSection.CCS1tJ4i.js", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/useEditorShopPayNavigation.DdAiaRLD.js", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/VaultedPayment.CcUU4aS0.js", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/LocalizationExtensionField.uyxCSf0-.js", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/ShopPayOptInDisclaimer.DtJlTyj0.js", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/ShipmentBreakdown.DxX9B-k4.js", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/MerchandiseModal.B_0na3kz.js", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/StackedMerchandisePreview.DOQflGfi.js", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/PayButtonSection.BUzDwUKM.js", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/component-ShopPayVerificationSwitch.DnIKO7QF.js", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/useSubscribeMessenger.B5Fvo-ri.js", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.tr/index.Dj8P3dS3.js", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "tr-TR,tr;q=0.5",
+    "priority": "u=1",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-gpc": "1"
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+}); ;
+fetch("https://cdn.shopify.com/s/files/1/0708/9038/9768/files/nebula-min-Kittl_64x64.jpg?v=1733344465", {
+  "headers": {
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Brave\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\""
+  },
+  "referrer": "https://rbxitem.com/",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+});
